@@ -1,0 +1,4 @@
+interface:
+  display_name: "按引用示例排版为 Word"
+  short_description: "从 PDF 引用示例生成 CSL 并编译 Word，自动核查引用与正文保真"
+  default_prompt: "使用 $format-citations-to-word，根据 PDF 引用示例调整稿件的引用格式并生成经过自动检查和视觉复核的 Word 文档。"
